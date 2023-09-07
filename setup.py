@@ -43,7 +43,7 @@ setup_args = dict(
         "markdown-it-py>=1.0.0",
         "mdit_py_plugins",
     ],
-    python_requires="~=3.6",
+    python_requires=">=3.6",
     extras_require={
         # left for back-compatibility
         "myst": [],
